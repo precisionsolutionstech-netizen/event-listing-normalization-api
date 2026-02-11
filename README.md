@@ -10,8 +10,6 @@
 
 **[Try the API on RapidAPI →](https://rapidapi.com/precisionsolutionstech/api/event-listing-normalization-api)**
 
-**Topics:** `events` `event-api` `normalization` `eventbrite` `ticketmaster` `meetup` `event-aggregation` `canonical-schema` `rapidapi` `api` · *Add these as [GitHub repository topics](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/classifying-your-repository-with-topics) (repo → About → ⚙️ → Topics) for discoverability.*
-
 ---
 
 ## Table of Contents
