@@ -1,5 +1,11 @@
 # Event Listing Normalization API
 
+<p align="center">
+  <a href="https://rapidapi.com/precisionsolutionstech/api/event-listing-normalization-api">
+    <img src="https://img.shields.io/badge/Try_on_RapidAPI-Event_Listing_Normalization-00A1F1?style=for-the-badge&logo=rapidapi" alt="Try Event Listing Normalization API on RapidAPI" />
+  </a>
+</p>
+
 Normalize event data from Eventbrite, Ticketmaster, Meetup, Facebook, Songkick, and other platforms into a single canonical event schema.
 
 This REST API converts heterogeneous event payloads into a consistent JSON structure with standardized fields for time, location, pricing, organizer, availability, and metadata.
